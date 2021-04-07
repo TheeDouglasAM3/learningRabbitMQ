@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XtQGvgKOPmCCOWBMltJfzVYHuejjMLgZt0OVHM9hrL+nvM4X24RPj3hQc1nP8/sJA7k4zTj91CQi8QLIjmV55Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Douglas\\Desktop\\havan\\rabbitmq\\aprendizado\\learningRabbitMQ\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
