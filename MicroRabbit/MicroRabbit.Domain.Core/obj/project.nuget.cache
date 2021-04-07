@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aqxqykw6VYlKr1x0yb7VuO1xZ3SIvwPjy4UBL/c1bYoPbH5125r4J694qF9LBaU2TsUlDPnAxlVEnuj9+neClA==",
+  "dgSpecHash": "gPsNTai/aa/iQFYicVA7UW2pUWFiVpanrVVwserF03AHNNbzR/k8+GjaqEs6x5kwTgY4+WYr8RFCguXP9c/glg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Douglas\\Desktop\\havan\\rabbitmq\\aprendizado\\learningRabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
