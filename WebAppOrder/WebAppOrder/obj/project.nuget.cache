@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2UzK9Ds924etm2GABeu04bKcmvdgo93FbhQy6LM8D5/9RV3SRo4CeCGUxJJc11ig2gH9xtCbyG0SwF/yUHz+uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Douglas\\Desktop\\havan\\rabbitmq\\aprendizado\\learningRabbitMQ\\WebAppOrder\\WebAppOrder\\WebAppOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
