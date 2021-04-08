@@ -1,0 +1,16 @@
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.exe
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.deps.json
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.runtimeconfig.json
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.dll
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.pdb
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csprojAssemblyReference.cache
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.CopyComplete
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.dll
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.pdb
+C:\Users\Douglas\Desktop\havan\rabbitmq\aprendizado\learningRabbitMQ\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.genruntimeconfig.cache
